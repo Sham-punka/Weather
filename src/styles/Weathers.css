@@ -1,0 +1,12 @@
+.weather {
+    display: flex;
+    width: 25%;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.button{
+    font-size: 2em;
+    background-color: #FFC873;
+    border-radius: 10px;
+}
